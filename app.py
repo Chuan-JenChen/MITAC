@@ -14,7 +14,6 @@ import datetime
 import json
 import os
 
-
 # 設置日誌系統
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
